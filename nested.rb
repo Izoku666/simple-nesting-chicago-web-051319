@@ -93,7 +93,7 @@ def adding_matz
         
         puts programmer_hash.include?(:yukihiro_matsumoto)
         puts programmer_hash[:yukihiro_matsumoto]
-      return programmer_hash[:yukihiro_matsumoto]
+      return programmer_hash
 end
 
 def changing_alan
