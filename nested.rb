@@ -139,5 +139,6 @@ def adding_to_dennis
      
      a = programmer_hash[:dennis_ritchie][:languages]
      a.push("Assembly")
+     puts a
 
 end
