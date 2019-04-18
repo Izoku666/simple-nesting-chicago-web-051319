@@ -141,6 +141,6 @@ def adding_to_dennis
      a.push("Assembly")
      puts a
      
-     return a
+     return programmer_hash
 
 end
