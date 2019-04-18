@@ -93,6 +93,7 @@ def adding_matz
           :languages => ["LISP", "C"]
         }
         
+        puts programmer_hash.include?(:yukihiro_matsumoto)
         puts programmer_hash[:yukihiro_matsumoto]
       return programmer_hash[:yukihiro_matsumoto]
 end
